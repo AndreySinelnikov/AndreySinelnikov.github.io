@@ -3,10 +3,9 @@
   padding:0px;
 }
 
-#octocat {
+#profilephoto {
   display: block;
-  width:384px;
-  margin: 50px auto;
+  float: right;
 }
 
 p {
