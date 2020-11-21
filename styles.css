@@ -8,5 +8,23 @@ p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 75% georgia, sans-serif;
+  font: 75% roboto, sans-serif;
+  border-radius: 25px;
+  background: #ffe6e6;
+  padding: 20px;
+  font-size: 20px;
+  color: #140033;
+}
+
+body {
+  background-color: #1aa3ff;
+}
+
+a {
+  text-decoration: none;
+  color: #1a1aff;
+}
+
+a:hover {
+  color: #ff0066;
 }
