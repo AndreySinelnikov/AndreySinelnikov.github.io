@@ -9,8 +9,7 @@ p {
   width: 400px;
   margin: 50px auto;
   font: 75% roboto, sans-serif;
-  /*border-radius: 25px;*/
-  border-radius: 50%;
+  border-radius: 25px;
   background: #ffe6e6;
   padding: 20px;
   font-size: 20px;
